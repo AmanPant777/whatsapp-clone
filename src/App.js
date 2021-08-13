@@ -1,6 +1,7 @@
 import "./App.css";
 import SideBar from "./comp/SideBar";
 import Chats from "./comp/Chats";
+
 function App() {
   return (
     <div className="app">
